@@ -26,6 +26,8 @@ jobs:
 
   job-2:
     runs-on: ubuntu-24.04
+    env:
+      STEP_VAR: I_AM_STEP_SCOPED_2_2
     steps:
       - name: Inspect scopes job 2 step 2
         run: |
