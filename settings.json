@@ -1,0 +1,12 @@
+{
+
+"workbench. sideBar. location": "right",
+"editor. formatOnSave": true,
+"github-actions.workflows.pinned.workflows": [],
+"files. associations": {
+    "**/.github/workflows/*.{yml, yamL}": "yaml",
+    "**/Taskfile. {yml, yam L}": "yaml"
+},
+"editor. tabSize": 2,
+"extensions. ignoreRecommendations": true    
+}
